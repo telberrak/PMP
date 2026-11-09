@@ -1,0 +1,22 @@
+{
+  "video": "take-01.webm",
+  "bytes": 0,
+  "startedAt": "2026-11-08T23:50:20.152Z",
+  "seconds": 33.34,
+  "mimeType": "video/webm;codecs=vp9,opus",
+  "script": "/Users/telberrak/Development/projects/techstartup/the-bank-architect/k8s/ep01-why-kubernetes/01-whiteboard-script.md",
+  "title": "Kubernetes from Zero, Episode 1: Why Containers, and Why Kubernetes After That",
+  "take": 1,
+  "follow": {
+    "by": "voice",
+    "lagSeconds": 5.7
+  },
+  "sentences": [
+    {
+      "sentence": 1,
+      "start": 0,
+      "text": "It works on my machine.",
+      "end": 33.3
+    }
+  ]
+}
